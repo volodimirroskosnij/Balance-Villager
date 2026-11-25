@@ -8,6 +8,10 @@
 		"Voloda",
 		"partyArc"
 	],
+	"contact": {
+		"homepage": "https://github.com/volodimirroskosnij/Balance-Villager",
+		"sources": "https://github.com/volodimirroskosnij/Balance-Villager"
+	},
 	"license": "MIT",
 	"icon": "assets/balance-villager/icon.png",
 	"environment": "*",
