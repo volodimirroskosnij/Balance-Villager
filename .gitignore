@@ -1,0 +1,21 @@
+# Gradle & Fabric Loom
+.gradle/
+build/
+out/
+
+# Локальний тестовий клієнт/сервер
+run/
+
+# IDE та системні файли
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+.DS_Store
+
+# Локальні скрипти запуску
+*.command
+*.log

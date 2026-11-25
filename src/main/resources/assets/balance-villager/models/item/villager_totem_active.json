@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "balance-villager:item/villager_totem_active"
+	},
+	"display": {
+		"gui": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 1.0, 0 ],
+			"scale": [ 1.32, 1.32, 1.0 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 0.65, 0.65, 0.5 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 3, 1 ],
+			"scale": [ 0.72, 0.72, 0.55 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, -90, 25 ],
+			"translation": [ 1.13, 3.2, 1.13 ],
+			"scale": [ 0.88, 0.88, 0.68 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"scale": [ 1.32, 1.32, 1.0 ]
+		}
+	}
+}
