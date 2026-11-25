@@ -5,12 +5,23 @@
 	"name": "Balance Villager",
 	"description": "Глобальний перемикач режиму NO VILLAGER: повністю блокує появу та існування жителів у світі за допомогою Тотема Жителя.",
 	"authors": [
-		"Voloda",
-		"partyArc"
+		{
+			"name": "volodimirroskosnij",
+			"contact": {
+				"homepage": "https://github.com/volodimirroskosnij"
+			}
+		},
+		{
+			"name": "partyArc",
+			"contact": {
+				"homepage": "https://github.com/partyArc"
+			}
+		}
 	],
 	"contact": {
 		"homepage": "https://github.com/volodimirroskosnij/Balance-Villager",
-		"sources": "https://github.com/volodimirroskosnij/Balance-Villager"
+		"sources": "https://github.com/volodimirroskosnij/Balance-Villager",
+		"issues": "https://github.com/volodimirroskosnij/Balance-Villager/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/balance-villager/icon.png",

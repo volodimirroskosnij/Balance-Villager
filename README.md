@@ -8,7 +8,8 @@
 
 **Balance Villager** — мод для **Minecraft 1.20.1 (Fabric)**, який додає глобальний серверний режим **`NO VILLAGER`**, що керується спеціальним предметом **Тотем Жителя** (`balance-villager:villager_totem`). Коли режим увімкнено, жителі (`minecraft:villager`) повністю зникають зі світу та не можуть з'явитися жодним способом.
 
-* **Автори**: `Voloda`, `partyArc`
+* **Розробники**: [@volodimirroskosnij](https://github.com/volodimirroskosnij) та [@partyArc](https://github.com/partyArc)
+* **Репозиторій**: [github.com/volodimirroskosnij/Balance-Villager](https://github.com/volodimirroskosnij/Balance-Villager)
 * **Ліцензія**: [MIT](LICENSE)
 
 ---
